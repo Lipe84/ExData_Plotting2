@@ -59,7 +59,7 @@ png(filename = "./plot2.png",
     width=480, 
     height=480, 
     units='px', 
-    bg="transparent")
+    )
 
 plot(total_baltimore, 
      type="o",
